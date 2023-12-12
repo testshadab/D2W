@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 hello
 hi
-=======
-working on tb.
-In previous attemp it did not work.
-next attempt
->>>>>>> 1769daaa8c12923c988d32acf1716cb7abf92483
